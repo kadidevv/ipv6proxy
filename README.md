@@ -17,9 +17,4 @@ Redirect connections from different ports at one ipv4 address to unique random i
 ## Video Tutorial - Quậy Vlog
 
 
-![pic](pic.png)
-
-
-[Contact to YOUTUBE](https://www.youtube.com/watch?v=F6hhNfFKQEk)
-
 The source : 3proxy
